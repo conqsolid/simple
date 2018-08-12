@@ -17,6 +17,10 @@
 /Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.csproj.CopyComplete
 /Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.dll
 /Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.pdb
+/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.csprojAssemblyReference.cache
+/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.csproj.CoreCompileInputs.cache
+/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.AssemblyInfoInputs.cache
+/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.AssemblyInfo.cs
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/bin/Debug/netcoreapp2.1/SimpleApp.Web.Views.dll
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/bin/Debug/netcoreapp2.1/SimpleApp.Web.Views.pdb
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -29,10 +33,6 @@
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/bin/Debug/netcoreapp2.1/SimpleApp.Tests.pdb
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/bin/Debug/netcoreapp2.1/SimpleApp.Web.dll
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/bin/Debug/netcoreapp2.1/SimpleApp.Web.pdb
-/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.csprojAssemblyReference.cache
-/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.csproj.CoreCompileInputs.cache
-/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.AssemblyInfoInputs.cache
-/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.AssemblyInfo.cs
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.csproj.CopyComplete
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.dll
 /Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/Debug/netcoreapp2.1/SimpleApp.Tests.pdb
