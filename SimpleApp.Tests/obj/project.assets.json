@@ -319,8 +319,7 @@
           "lib/netcoreapp2.1/_._": {}
         },
         "build": {
-          "build/netcoreapp2.1/Microsoft.AspNetCore.All.props": {},
-          "build/netcoreapp2.1/Microsoft.AspNetCore.All.targets": {}
+          "build/netcoreapp2.1/_._": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/2.1.1": {
@@ -1215,8 +1214,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
         },
         "build": {
-          "build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.props": {},
-          "build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.targets": {}
+          "build/netstandard2.0/_._": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.Razor.ViewCompilation/2.1.1": {
@@ -1226,7 +1224,7 @@
           "Microsoft.AspNetCore.Mvc.RazorPages": "2.1.1"
         },
         "build": {
-          "build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.ViewCompilation.targets": {}
+          "build/netstandard2.0/_._": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.RazorPages/2.1.1": {
@@ -1318,10 +1316,10 @@
       "Microsoft.AspNetCore.Razor.Design/2.1.1": {
         "type": "package",
         "build": {
-          "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props": {}
+          "build/netstandard2.0/_._": {}
         },
         "buildMultiTargeting": {
-          "buildMultiTargeting/Microsoft.AspNetCore.Razor.Design.props": {}
+          "buildMultiTargeting/_._": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Language/2.1.1": {
@@ -2047,7 +2045,7 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
         },
         "build": {
-          "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props": {}
+          "build/netcoreapp2.0/_._": {}
         }
       },
       "Microsoft.EntityFrameworkCore.InMemory/2.1.1": {
@@ -2319,8 +2317,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.dll": {}
         },
         "build": {
-          "build/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.props": {},
-          "build/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.targets": {}
+          "build/netstandard2.0/_._": {}
         }
       },
       "Microsoft.Extensions.Configuration.Xml/2.1.1": {
@@ -2422,12 +2419,10 @@
           "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Embedded.dll": {}
         },
         "build": {
-          "build/netstandard2.0/Microsoft.Extensions.FileProviders.Embedded.props": {},
-          "build/netstandard2.0/Microsoft.Extensions.FileProviders.Embedded.targets": {}
+          "build/netstandard2.0/_._": {}
         },
         "buildMultiTargeting": {
-          "buildMultiTargeting/Microsoft.Extensions.FileProviders.Embedded.props": {},
-          "buildMultiTargeting/Microsoft.Extensions.FileProviders.Embedded.targets": {}
+          "buildMultiTargeting/_._": {}
         }
       },
       "Microsoft.Extensions.FileProviders.Physical/2.1.1": {
@@ -14786,7 +14781,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.AspNetCore.All >= 2.1.2",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "SimpleApp.Web >= 1.0.0",
@@ -14837,10 +14831,6 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.1.2, )"
-          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[15.7.0, )"
