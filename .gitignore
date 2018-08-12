@@ -6,6 +6,10 @@
 packages/
 TestResults/
 
+[Oo]bj\
+[Bb]in\
+packages\
+TestResults\
 # globs
 Makefile.in
 *.DS_Store
@@ -39,3 +43,4 @@ Thumbs.db
 *.dotCover
 
 .vscode/*
+.vs/
