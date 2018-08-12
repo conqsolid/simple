@@ -14801,11 +14801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Tests/SimpleApp.Tests.csproj",
+      "projectUniqueName": "/Users/mac/tmp/simpleapp/SimpleApp.Tests/SimpleApp.Tests.csproj",
       "projectName": "SimpleApp.Tests",
-      "projectPath": "/Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Tests/SimpleApp.Tests.csproj",
+      "projectPath": "/Users/mac/tmp/simpleapp/SimpleApp.Tests/SimpleApp.Tests.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Tests/obj/",
+      "outputPath": "/Users/mac/tmp/simpleapp/SimpleApp.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -14822,8 +14822,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Web/SimpleApp.Web.csproj": {
-              "projectPath": "/Users/mac/dev/conqsolid/SimpleApp/SimpleApp.Web/SimpleApp.Web.csproj"
+            "/Users/mac/tmp/simpleapp/SimpleApp.Web/SimpleApp.Web.csproj": {
+              "projectPath": "/Users/mac/tmp/simpleapp/SimpleApp.Web/SimpleApp.Web.csproj"
             }
           }
         }
